@@ -1,0 +1,754 @@
+Items_name,Category
+Pizza,food
+Burger,food
+Sushi,food
+Pasta,food
+Sandwich,food
+Salad,food
+Fried Chicken,food
+Tacos,food
+Burritos,food
+Ice Cream,food
+Cake,food
+Coffee,food
+Tea,food
+Juice,food
+Smoothie,food
+Steak,food
+Salmon,food
+Shrimp,food
+Lobster,food
+Crab,food
+Ramen,food
+Noodles,food
+Dumplings,food
+Spring Rolls,food
+Pancakes,food
+Waffles,food
+Omelette,food
+Bagel,food
+Donut,food
+Muffin,food
+Croissant,food
+Baguette,food
+Hot Dog,food
+Kebab,food
+Falafel,food
+Hummus,food
+Cheese,food
+Yogurt,food
+Milk,food
+Cereal,food
+Granola,food
+Oatmeal,food
+Rice,food
+Beans,food
+Lentils,food
+Chickpeas,food
+Quinoa,food
+Bread,food
+Butter,food
+Jam,food
+Honey,food
+Peanut Butter,food
+Popcorn,food
+Chips,food
+Salsa,food
+Guacamole,food
+Pretzels,food
+Crackers,food
+Cookies,food
+Brownies,food
+Cupcakes,food
+Fruit Salad,food
+Apple,food
+Banana,food
+Orange,food
+Grapes,food
+Strawberries,food
+Blueberries,food
+Raspberries,food
+Pineapple,food
+Mango,food
+Watermelon,food
+Cantaloupe,food
+Honeydew,food
+Grapefruit,food
+Kiwi,food
+Pear,food
+Peach,food
+Plum,food
+Cherry,food
+Pomegranate,food
+Papaya,food
+Avocado,food
+Carrot,food
+Celery,food
+Lettuce,food
+Spinach,food
+Kale,food
+Broccoli,food
+Cauliflower,food
+Asparagus,food
+Zucchini,food
+Eggplant,food
+Bell Pepper,food
+Onion,food
+Garlic,food
+Tomato,food
+Cucumber,food
+Mushroom,food
+Potato,food
+Sweet Potato,food
+Corn,food
+Peas,food
+Green Beans,food
+Brussel Sprouts,food
+Flight ticket,travel expenses
+Train ticket,travel expenses
+Bus ticket,travel expenses
+Taxi fare,travel expenses
+Uber fare,travel expenses
+Lyft fare,travel expenses
+Gasoline,travel expenses
+Car rental,travel expenses
+Hotel stay,travel expenses
+Airbnb stay,travel expenses
+Travel insurance,travel expenses
+Travel visa,travel expenses
+Passport fee,travel expenses
+Airport parking,travel expenses
+Airport lounge,travel expenses
+Airline baggage fee,travel expenses
+In-flight meal,travel expenses
+In-flight WiFi,travel expenses
+Travel guide,travel expenses
+Travel map,travel expenses
+Travel adapter,travel expenses
+Currency exchange fee,travel expenses
+Foreign transaction fee,travel expenses
+Travel pillow,travel expenses
+Travel blanket,travel expenses
+Travel bag,travel expenses
+Luggage,travel expenses
+Backpack,travel expenses
+Travel toiletries,travel expenses
+Travel first aid kit,travel expenses
+Travel snacks,travel expenses
+Rental bike,travel expenses
+Rental scooter,travel expenses
+City tour,travel expenses
+Museum ticket,travel expenses
+Amusement park ticket,travel expenses
+Concert ticket,travel expenses
+Theater ticket,travel expenses
+Cruise ticket,travel expenses
+Ferry ticket,travel expenses
+Cable car ticket,travel expenses
+Subway ticket,travel expenses
+Tram ticket,travel expenses
+Monorail ticket,travel expenses
+Rental tent,travel expenses
+Camping fee,travel expenses
+Hiking permit,travel expenses
+National park fee,travel expenses
+Souvenirs,travel expenses
+Travel clothes,travel expenses
+Travel shoes,travel expenses
+Travel hat,travel expenses
+Sunglasses,travel expenses
+Sunscreen,travel expenses
+Travel lock,travel expenses
+Travel guidebook,travel expenses
+City pass,travel expenses
+Metro card,travel expenses
+Travel SIM card,travel expenses
+Mobile data package,travel expenses
+International calling card,travel expenses
+Tour guide service,travel expenses
+Travel agency fee,travel expenses
+Airport shuttle,travel expenses
+Travel backpack,travel expenses
+Day trip fee,travel expenses
+Road toll,travel expenses
+Parking fee,travel expenses
+Travel app subscription,travel expenses
+Car maintenance,travel expenses
+Boat rental,travel expenses
+Jet ski rental,travel expenses
+Surfboard rental,travel expenses
+Ski rental,travel expenses
+Snowboard rental,travel expenses
+Lift ticket,travel expenses
+Travel membership,travel expenses
+Frequent flyer fee,travel expenses
+Travel vaccination,travel expenses
+Travel consultation,travel expenses
+Diving fee,travel expenses
+Snorkeling fee,travel expenses
+Fishing fee,travel expenses
+Travel souvenirs,travel expenses
+Local transport card,travel expenses
+Bus pass,travel expenses
+Train pass,travel expenses
+Boat pass,travel expenses
+Flight upgrade,travel expenses
+Airport fast track,travel expenses
+Visa processing fee,travel expenses
+Embassy fee,travel expenses
+Travel document fee,travel expenses
+Cultural event ticket,travel expenses
+Local guide fee,travel expenses
+Travel insurance premium,travel expenses
+International driver's license,travel expenses
+Travel gift card,travel expenses
+Holiday package,travel expenses
+Weekend getaway,travel expenses
+Staycation fee,travel expenses
+Resort fee,travel expenses
+City tax,travel expenses
+Tourist tax,travel expenses
+Hotel upgrade,travel expenses
+Electricity bill,utilities
+Water bill,utilities
+Gas bill,utilities
+Internet bill,utilities
+Phone bill,utilities
+Cable TV bill,utilities
+Heating bill,utilities
+Cooling bill,utilities
+Trash collection bill,utilities
+Sewage bill,utilities
+Home security bill,utilities
+Solar panel maintenance,utilities
+Home insurance,utilities
+Property tax,utilities
+HOA fee,utilities
+Chimney cleaning,utilities
+Pest control,utilities
+Lawn care,utilities
+Tree trimming,utilities
+Gutter cleaning,utilities
+Roof repair,utilities
+Boiler maintenance,utilities
+Septic tank cleaning,utilities
+Plumbing repair,utilities
+Electrical repair,utilities
+Water heater repair,utilities
+HVAC repair,utilities
+Appliance repair,utilities
+Window cleaning,utilities
+Carpet cleaning,utilities
+House cleaning service,utilities
+Water softener maintenance,utilities
+Generator maintenance,utilities
+Home warranty,utilities
+Pool maintenance,utilities
+Spa maintenance,utilities
+Well water maintenance,utilities
+Water filtration service,utilities
+Firewood delivery,utilities
+Snow removal,utilities
+Home repair service,utilities
+Emergency repair service,utilities
+Home improvement fee,utilities
+Appliance installation,utilities
+Furniture assembly,utilities
+Moving service,utilities
+Home inspection fee,utilities
+Termite inspection,utilities
+Radon inspection,utilities
+Mold inspection,utilities
+Lead inspection,utilities
+Asbestos inspection,utilities
+Indoor air quality test,utilities
+Water quality test,utilities
+Soil test,utilities
+Fence repair,utilities
+Driveway repair,utilities
+Patio repair,utilities
+Deck repair,utilities
+Porch repair,utilities
+Garage door repair,utilities
+Garage cleaning,utilities
+Basement waterproofing,utilities
+Attic insulation,utilities
+Wall insulation,utilities
+Floor insulation,utilities
+Energy audit,utilities
+Window replacement,utilities
+Door replacement,utilities
+Skylight repair,utilities
+Roof replacement,utilities
+Siding repair,utilities
+Paint touch-up,utilities
+Wallpaper removal,utilities
+Flooring repair,utilities
+Tile repair,utilities
+Countertop repair,utilities
+Cabinet repair,utilities
+Shelf installation,utilities
+Closet organization,utilities
+Garage organization,utilities
+Storage unit rental,utilities
+Home automation service,utilities
+Smart thermostat installation,utilities
+Smart lock installation,utilities
+Home network setup,utilities
+WiFi extender installation,utilities
+Cable management,utilities
+Home theater installation,utilities
+Speaker installation,utilities
+Lighting installation,utilities
+Ceiling fan installation,utilities
+Water heater installation,utilities
+HVAC installation,utilities
+Furnace installation,utilities
+Air conditioner installation,utilities
+Solar panel installation,utilities
+Home energy storage,utilities
+Electric car charger installation,utilities
+Home battery backup installation,utilities
+Energy-efficient appliance upgrade,utilities
+Green home certification,utilities
+Weatherproofing,utilities
+Leak detection service,utilities
+Home renovation fee,utilities
+Haircut,personal care
+Shampoo,personal care
+Conditioner,personal care
+Body wash,personal care
+Face wash,personal care
+Moisturizer,personal care
+Sunscreen,personal care
+Makeup,personal care
+Perfume,personal care
+Cologne,personal care
+Toothpaste,personal care
+Toothbrush,personal care
+Floss,personal care
+Deodorant,personal care
+Razor,personal care
+Shaving cream,personal care
+Manicure,personal care
+Pedicure,personal care
+Massage,personal care
+Facial treatment,personal care
+Spa day,personal care
+Gym membership,personal care
+Yoga mat,personal care
+Fitness tracker,personal care
+Vitamins,personal care
+Supplements,personal care
+Protein powder,personal care
+Essential oils,personal care
+Aromatherapy diffuser,personal care
+Paint,home improvement
+Wallpaper,home improvement
+Flooring material,home improvement
+Kitchen renovation,home improvement
+Bathroom renovation,home improvement
+New furniture,home improvement
+Curtains,home improvement
+Blinds,home improvement
+Home decor,home improvement
+Light fixtures,home improvement
+Plumbing supplies,home improvement
+Electrical supplies,home improvement
+Garden tools,home improvement
+Landscaping service,home improvement
+Pest control,home improvement
+Home security system,home improvement
+Smart home devices,home improvement
+HVAC installation,home improvement
+Roof repair,home improvement
+Window installation,home improvement
+Door installation,home improvement
+Fence installation,home improvement
+Deck construction,home improvement
+Garage door installation,home improvement
+Pool installation,home improvement
+Hot tub installation,home improvement
+Driveway paving,home improvement
+Home extension,home improvement
+Basement finishing,home improvement
+Movie ticket,entertainment
+Concert ticket,entertainment
+Theater ticket,entertainment
+Museum entry fee,entertainment
+Amusement park ticket,entertainment
+Sports event ticket,entertainment
+Streaming service subscription,entertainment
+Music download,entertainment
+Video game purchase,entertainment
+Board game,entertainment
+Book purchase,entertainment
+Magazine subscription,entertainment
+Online game subscription,entertainment
+E-book purchase,entertainment
+Audio book subscription,entertainment
+Dance class fee,entertainment
+Fitness class fee,entertainment
+Yoga class fee,entertainment
+Bowling fee,entertainment
+Pool entry fee,entertainment
+Fitness center membership,entertainment
+Nightclub entry fee,entertainment
+Karaoke session,entertainment
+Escape room ticket,entertainment
+Cooking class fee,entertainment
+Tuition fee,education
+Textbooks,education
+School supplies,education
+Online course fee,education
+Workshop fee,education
+Lab fee,education
+Graduation fee,education
+Field trip fee,education
+School uniform,education
+Music lessons,education
+Art supplies,education
+Tutoring service,education
+Exam fee,education
+Student loan payment,education
+College application fee,education
+Library fee,education
+Study material,education
+Classroom fee,education
+School bus fee,education
+Sports equipment,education
+Training camp fee,education
+Academic conference fee,education
+Research material,education
+Educational software,education
+Science kit,education
+Language course,education
+Scholarship application fee,education
+Hostel fee,education
+Extracurricular activity fee,education
+Stationery,education
+Backpack,education
+Lunch box,education
+Calculator,education
+Geometry set,education
+Lab coat,education
+Microscope,education
+Project materials,education
+School project fee,education
+Graduation cap and gown,education
+Diploma frame,education
+Yearbook,education
+Computer,education
+Tablet,education
+Educational app,education
+Virtual reality headset,education
+Interactive whiteboard,education
+School subscription service,education
+Coding classes,education
+Robotics kit,education
+Debate club fee,education
+Drama club fee,education
+Sports uniform,education
+Gym membership for students,education
+Fitness equipment,education
+Health insurance for students,education
+Meal plan,education
+Accommodation fee,education
+Study abroad program fee,education
+Exchange student program fee,education
+Summer school fee,education
+Winter school fee,education
+Remedial classes fee,education
+Private lessons,education
+Learning disability assessment,education
+Speech therapy,education
+Occupational therapy,education
+Psychological counseling,education
+School fundraising contribution,education
+Parent-teacher association fee,education
+School trip insurance,education
+Graduation party expense,education
+School dance ticket,education
+Class ring,education
+Locker rental,education
+Parking permit,education
+Alumni association fee,education
+Career counseling,education
+Job placement service,education
+Internships program fee,education
+Apprenticeship program fee,education
+Certification exam fee,education
+Professional license fee,education
+Continuing education fee,education
+Online learning platform subscription,education
+Exam preparation course,education
+Online test fee,education
+Educational toys,education
+Interactive learning tools,education
+Educational games,education
+Classroom decoration,education
+Bulletin board supplies,education
+Class subscription to educational magazines,education
+"Field equipment (e.g., binoculars, specimen jars)",education
+Special education resources,education
+Homeschooling materials,education
+Academic journal subscription,education
+Research database access,education
+Lecture notes,education
+Presentation software,education
+Online library subscription,education
+Skill development courses,education
+First aid training,education
+Emergency preparedness training,education
+Outdoor education program,education
+Leadership training program,education
+Peer tutoring program fee,education
+School spirit wear,education
+"College entrance exam fee (e.g., SAT, ACT)",education
+AP exam fee,education
+IB exam fee,education
+University orientation fee,education
+Enrollment deposit,education
+Technology fee,education
+Writing center services,education
+Math lab services,education
+Science lab services,education
+Academic competitions entry fee,education
+Quiz bowl fee,education
+Science fair fee,education
+Model UN fee,education
+Travel expenses for academic events,education
+Equipment rental for projects,education
+Printing and copying services,education
+Binding services,education
+Portfolio development fee,education
+Doctor's visit,healthcare
+Dental cleaning,healthcare
+Eye exam,healthcare
+Prescription medication,healthcare
+Over-the-counter medication,healthcare
+Hospital stay,healthcare
+Surgery fee,healthcare
+Physical therapy,healthcare
+Mental health counseling,healthcare
+Chiropractic treatment,healthcare
+Lab tests,healthcare
+X-ray,healthcare
+MRI,healthcare
+Vaccinations,healthcare
+Health insurance premium,healthcare
+Medical equipment rental,healthcare
+Home healthcare service,healthcare
+Urgent care visit,healthcare
+Emergency room visit,healthcare
+Blood test,healthcare
+Ultrasound,healthcare
+Specialist consultation,healthcare
+Nursing service,healthcare
+Rehabilitation service,healthcare
+Medical supplies,healthcare
+Hearing aids,healthcare
+Orthopedic braces,healthcare
+Medical transportation,healthcare
+Ambulance service,healthcare
+In-home nurse,healthcare
+Vision therapy,healthcare
+Contact lenses,healthcare
+Eyeglasses,healthcare
+LASIK surgery,healthcare
+Dental crowns,healthcare
+Dental implants,healthcare
+Orthodontic treatment,healthcare
+Root canal treatment,healthcare
+Periodontal treatment,healthcare
+Cosmetic dentistry,healthcare
+Dermatologist visit,healthcare
+Allergy testing,healthcare
+Immunotherapy,healthcare
+Physical exam,healthcare
+Prenatal care,healthcare
+Postnatal care,healthcare
+Pediatrician visit,healthcare
+Geriatric care,healthcare
+Cancer treatment,healthcare
+Chemotherapy,healthcare
+Radiation therapy,healthcare
+Oncology consultation,healthcare
+Genetic testing,healthcare
+Speech therapy,healthcare
+Occupational therapy,healthcare
+Cardiology consultation,healthcare
+Cardiovascular tests,healthcare
+Pacemaker implantation,healthcare
+Cardiac rehabilitation,healthcare
+Pulmonary function test,healthcare
+Respiratory therapy,healthcare
+Asthma treatment,healthcare
+Diabetes management,healthcare
+Insulin pump supplies,healthcare
+Blood glucose monitoring,healthcare
+Nutritionist consultation,healthcare
+Dietitian services,healthcare
+Weight loss program,healthcare
+Bariatric surgery,healthcare
+Gastroenterologist visit,healthcare
+Colonoscopy,healthcare
+Endoscopy,healthcare
+Hepatologist visit,healthcare
+Hepatitis treatment,healthcare
+Nephrologist visit,healthcare
+Dialysis,healthcare
+Urologist visit,healthcare
+Prostate exam,healthcare
+Sexual health consultation,healthcare
+Fertility treatment,healthcare
+IVF treatment,healthcare
+Birth control,healthcare
+Menopause treatment,healthcare
+Hormone replacement therapy,healthcare
+Rheumatologist visit,healthcare
+Arthritis treatment,healthcare
+Pain management,healthcare
+Anesthesiologist consultation,healthcare
+Epidural injection,healthcare
+Acupuncture,healthcare
+Alternative medicine,healthcare
+Herbal supplements,healthcare
+Massage therapy,healthcare
+Hypnotherapy,healthcare
+Substance abuse treatment,healthcare
+Detox program,healthcare
+Rehabilitation center stay,healthcare
+Counseling for addiction,healthcare
+Smoking cessation program,healthcare
+Support group membership,healthcare
+Health screening,healthcare
+Bone density test,healthcare
+Mammogram,healthcare
+Pap smear,healthcare
+Prostate-specific antigen (PSA) test,healthcare
+Colon cancer screening,healthcare
+Skin cancer screening,healthcare
+Flu shot,healthcare
+Tetanus shot,healthcare
+Travel vaccines,healthcare
+Child wellness check,healthcare
+Senior wellness check,healthcare
+Women�s health services,healthcare
+Men�s health services,healthcare
+LGBTQ+ health services,healthcare
+Gender-affirming surgery,healthcare
+Hormone therapy for transgender individuals,healthcare
+Sleep study,healthcare
+CPAP machine,healthcare
+Sleep apnea treatment,healthcare
+Hearing test,healthcare
+Audiologist consultation,healthcare
+"Ear, nose, and throat specialist (ENT) visit",healthcare
+Sinus surgery,healthcare
+Tonsillectomy,healthcare
+Allergy medications,healthcare
+Birth and delivery services,healthcare
+Midwifery services,healthcare
+Doula services,healthcare
+Newborn care,healthcare
+Childbirth classes,healthcare
+Lactation consultation,healthcare
+Breast pump,healthcare
+Infant immunizations,healthcare
+Pediatric vaccinations,healthcare
+ADHD treatment,healthcare
+Autism spectrum disorder therapy,healthcare
+Special needs services,healthcare
+Genetic counseling,healthcare
+Cord blood banking,healthcare
+Infertility counseling,healthcare
+Sperm bank services,healthcare
+Egg donation,healthcare
+Surrogacy services,healthcare
+Genetic disorder treatment,healthcare
+Infectious disease consultation,healthcare
+STD testing,healthcare
+Antiviral therapy,healthcare
+Antibacterial therapy,healthcare
+Antifungal therapy,healthcare
+Parasitic infection treatment,healthcare
+Traveler�s health consultation,healthcare
+Malaria prophylaxis,healthcare
+Tuberculosis treatment,healthcare
+Hepatitis C treatment,healthcare
+HIV/AIDS treatment,healthcare
+Palliative care,healthcare
+Hospice care,healthcare
+End-of-life planning,healthcare
+Advance directives,healthcare
+Medical power of attorney,healthcare
+Living will,healthcare
+Funeral pre-planning,healthcare
+Grief counseling,healthcare
+Bereavement support,healthcare
+Life coaching,healthcare
+Wellness coaching,healthcare
+Health education classes,healthcare
+Community health services,healthcare
+Mobile health services,healthcare
+Telemedicine consultation,healthcare
+Virtual therapy sessions,healthcare
+Homeopathic medicine,healthcare
+Naturopathic medicine,healthcare
+Integrative medicine consultation,healthcare
+Functional medicine consultation,healthcare
+Ayurvedic treatment,healthcare
+Reiki healing,healthcare
+Energy healing,healthcare
+Holistic health consultation,healthcare
+Wellness retreat,healthcare
+Medical tourism,healthcare
+Cosmetic surgery,healthcare
+Botox injections,healthcare
+Dermal fillers,healthcare
+Laser hair removal,healthcare
+Tattoo removal,healthcare
+Scar treatment,healthcare
+Varicose vein treatment,healthcare
+Cosmetic dermatology,healthcare
+Medical spa services,healthcare
+Anti-aging treatments,healthcare
+Cryotherapy,healthcare
+IV vitamin therapy,healthcare
+Nutritional supplements,healthcare
+Health monitoring devices,healthcare
+Fitness tracker,healthcare
+Medical alert system,healthcare
+Personal emergency response system,healthcare
+Health-related wearables,healthcare
+Printer paper,office supplies
+Ink cartridges,office supplies
+Pens,office supplies
+Notebooks,office supplies
+Sticky notes,office supplies
+Envelopes,office supplies
+Folders,office supplies
+Binders,office supplies
+Paper clips,office supplies
+Stapler,office supplies
+Staples,office supplies
+Desk organizer,office supplies
+Whiteboard,office supplies
+Whiteboard markers,office supplies
+Filing cabinet,office supplies
+Office chair,office supplies
+Desk,office supplies
+Monitor,office supplies
+Keyboard,office supplies
+Mouse,office supplies
+Laptop,office supplies
+Computer software,office supplies
+Office phone,office supplies
+Scanner,office supplies
+Shredder,office supplies
+Calendar,office supplies
+Planner,office supplies
+Tape,office supplies
+Scissors,office supplies
+Glue sticks,office supplies
